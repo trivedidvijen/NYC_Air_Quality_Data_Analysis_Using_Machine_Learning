@@ -5,8 +5,9 @@
 This project was developed as part of the course ***CS 5834 Intro to Urban Computing*** at ***Virginia Polytechnic Institute and State University***. This project was a joint effort of a group of 4 people enrolled in the course.
 
 Project Members
-1. [Aman Sarawgi](amansarawgi@vt.edu)
-2. [Dvijen Trivedi](tdvijenmahesh20@vt.edu)
+
+1. [Dvijen Trivedi](trivedidvijen@gmail.com)
+2. [Aman Sarawgi](amansarawgi@vt.edu)
 3. [Adinew Zeleke](azeleke@vt.edu)
 4. [Sara Alsalamah](salsalamah@vt.edu)
 
